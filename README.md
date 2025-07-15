@@ -10,7 +10,7 @@ A full-stack real-time cryptocurrency dashboard to monitor top 10 coins using Co
 ## ⚙️ Setup Instructions
 ## 1. Clone the Repo
 ```bash
-git clone https://github.com/yourusername/crypto-dashboard.git
+git clone https://github.com/SatishKr88/Crypto-Tracker.git
 cd crypto-dashboard
 ```
 
