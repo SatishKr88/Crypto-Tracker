@@ -11,7 +11,7 @@ function Dashboard() {
   const fetchCoins = async () => {
     setLoadingCoins(true);
     try {
-      const res = await axios.get('http://localhost:5000/api/coins');
+      const res = await axios.get('https://crypto-tracker-3yrg.onrender.com/api/coins');
       setCoins(res.data);
       setError(null);
     } catch (err) {
