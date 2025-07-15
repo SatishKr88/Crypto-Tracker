@@ -36,7 +36,7 @@ function Dashboard() {
   return (
     <div className="p-6 max-w-7xl mx-auto bg-gradient-to-br from-blue-50 to-white min-h-screen">
       <h1 className="text-4xl font-extrabold text-center mb-10 text-blue-800 tracking-tight drop-shadow-md">
-        Crypto Dashboard
+        Crypto Tracker
       </h1>
 
       <div className="relative max-w-md mx-auto mb-8">
