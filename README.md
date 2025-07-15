@@ -25,7 +25,7 @@ node index.js
 ```bash
 cd client
 npm install
-npm start
+npm run dev
 ```
 
 ##  Deployment
