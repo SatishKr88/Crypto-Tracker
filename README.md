@@ -23,7 +23,7 @@ node index.js
 
 ## 3. Setup Frontend
 ```bash
-cd client
+cd frontend
 npm install
 npm run dev
 ```
